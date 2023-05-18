@@ -1,0 +1,3 @@
+# Exemplo de Uso do Padrão de Projeto Strategy para Converter JSON
+
+O projeto de exemplo demonstra a aplicação do padrão de projeto Strategy para converter dados em formato JSON para XML e CSV. O padrão Strategy permite definir diferentes estratégias de conversão e selecionar dinamicamente a estratégia correta com base nas necessidades específicas. Essa abordagem flexível e escalável facilita a adição de novos formatos de conversão no futuro. O projeto ilustra a separação das responsabilidades, a reutilização de código e a manutenção de um código mais organizado e extensível ao trabalhar com diferentes formatos de dados.
